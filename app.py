@@ -4,6 +4,7 @@
 # Cell 2: Define the main function
 def main():
     # Person 1: This function prints "Hello, World!" to the console
+    # Person 2: Adding another comment here for clarification
     print("Hello, World!")
 
 # Cell 3: Entry point of the script
